@@ -1,7 +1,0 @@
-Hello
-this
-is
-a
-simple
-key
-logger!
